@@ -46,6 +46,7 @@ public class Main
     /* C a l c u l a t o r
      * 0 1 2 3 4 5 6 7 8 9
      * 0 1 2 0 1 2 0 1 2 0 - mod 3
+     * c a / c u / a t / r - doesnt print when mod=2 bc thats the third letter
      */
   }
 }
